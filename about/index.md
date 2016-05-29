@@ -5,7 +5,7 @@ tags: [about]
 date: 2016-05-25
 ---
 -{% capture images %}
-https://raw.githubusercontent.com/refidelia19/refidelia19.github.io/master/assets/img/IMG_2432.JPG">
+<img src="https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_2430.JPG">
 {% endcapture %}
 
 ---<center>
