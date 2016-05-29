@@ -12,9 +12,9 @@ date: 2016-05-25
 Name          : REFI DELIA <br>
 Birth         : Rengat , 19 Mei 1995 <br>
 Class         : Information System,D <br>
-Majors        :[Sistem Informasi](http://sif.uin-suska.ac.id)<br>
-Fakulty       :[Sains dan teknologi](http://fst.uin-suska.ac.id/)<br>
-University    :[uin Suska Riau](htpp://uin-suska.ac.id/)<br>
+Jurusan       : [Sistem Informasi](http://sif.uin-suska.ac.id/)<br>
+Fakultas      : [Sains dan Teknologi](http://fst.uin-suska.ac.id/)<br>
+Universitas   : [UIN Suska Riau](http://uin-suska.ac.id/)<br>)<br>
 Motto         : Today should be better than yesterday
 
 --
