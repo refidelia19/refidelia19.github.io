@@ -1,6 +1,6 @@
 # Site
-title:              siTora
-bio:                'Pencari kepuasan akibat dari setitik rasa ingin tahu'
+title:              TehRere
+bio:                Mahasiswi Sistem Informasi Uin SUSKA Pekanbaru
 description:        "Web Desaign, and i like coffy"
 reading_time:       true
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'http://t9hacks.org/images/t9hacks_logo_transparent.png'
 background:         'http://orig06.deviantart.net/a380/f/2011/167/4/8/almacon_2012_background_by_sakurirainne-d3j3s4i.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://tora9.github.io
+url:                http://refidelia19.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            _andreoktora
-facebook:           andrea.okta.libra
-github:             tora910
+twitter:            @refidelia
+facebook:          refidelia
+github:            refidelia19
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          andre_oktora
+instagram:          refidelia
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
