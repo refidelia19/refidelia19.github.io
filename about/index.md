@@ -14,5 +14,5 @@ Birth         : Rengat , 19 Mei 1995 <br>
 Class         : Information System,D <br>
 Motto         : Today should be better than yesterday
 
---<center>
-[uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/)
+--
+mahasiswa [uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/). 
