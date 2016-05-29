@@ -5,7 +5,7 @@ tags: [about]
 date: 2016-05-25
 ---
 -{% capture images %}
-https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_2430.JPG
+https://raw.githubusercontent.com/refidelia19/refidelia19.github.io/master/assets/img/IMG_2430.JPG
 {% endcapture %}
 
 ---<center>
@@ -15,4 +15,4 @@ Class         : Information System,D <br>
 Motto         : Today should be better than yesterday
 
 --<center>
-University [uin Suska Riau](htpp://uin-suska.ac.id/) Majors [Sistem Informasi](http://sif.uin-suska.ac.id) Faculty [Sains dan teknologi](http://fst.uin-suska.ac.id/).
+[uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/)
