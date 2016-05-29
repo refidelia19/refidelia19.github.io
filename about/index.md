@@ -4,9 +4,8 @@ title: About Me
 tags: [about]
 date: 2016-05-25
 ---
--{% capture images %}
 <img src="https://raw.githubusercontent.com/refidelia19/refidelia19.github.io/master/assets/img/IMG_2430.JPG">
-{% endcapture %}
+
 
 ---<center>
 Name          : REFI DELIA <br>
