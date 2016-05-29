@@ -12,15 +12,7 @@ date: 2016-05-25
 Name          : REFI DELIA <br>
 Birth         : Rengat , 19 Mei 1995 <br>
 Class         : Information System,D <br>
-Universuty    :[uin Suska Riau](htpp://uin-suska.ac.id/) 
-Majors        :[Sistem Informasi](http://sif.uin-suska.ac.id)
-Faculty       :[Sains dan teknologi](http://fst.uin-suska.ac.id/). Saya, bisa juga dikatakan seorang manusia malam, kenapa? mungkin karna sering menghabiskan waktu dimalam hari dan tidur disiang hari(kalau ada kesempatan :D). Dan saya, lupa dunia jika sudah bermesraan  dengan laptop apalagi kalau sudah dibuat penasaran dengan sebaris cerita dari sebuah script coding. Sepertinya sudah cukup untuk bionya :D
-
-
 Motto         : Today should be better than yesterday
 
 --
-Perkenalkan, saya **Andre Oktora** yang biasa dipanggil kawan-kawan terdekat dengan **Tora** atau **siMbatak**, Seorang mahasiswa [uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/). Saya, bisa juga dikatakan seorang manusia malam, kenapa? mungkin karna sering menghabiskan waktu dimalam hari dan tidur disiang hari(kalau ada kesempatan :D). Dan saya, lupa dunia jika sudah bermesraan  dengan laptop apalagi kalau sudah dibuat penasaran dengan sebaris cerita dari sebuah script coding. Sepertinya sudah cukup untuk bionya :D
-
-
-
+Mahasiswi [uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/).
